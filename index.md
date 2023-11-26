@@ -4,7 +4,9 @@
 ```javascript
 var my_fav = "The Book Thief";
 ```
-
+- [ ] Learn Github
+- [ ] Help others learn
+- [ ] Market myself
 
 
 
